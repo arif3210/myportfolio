@@ -1,0 +1,12 @@
+.maintext-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+.maintext-text{
+    font-size: max(8vw,80px);
+    font-weight: 500;
+    font-family: Nabla;  
+}

@@ -1,0 +1,28 @@
+.navbar-contents-logo{
+    font-family: Cookie;
+    font-size: max(3vw,40px);
+    padding: 0px 10px;
+    margin: 5px 25px;
+    justify-content: start;
+}
+.navbar-contents-ul{
+    display: flex;
+}
+.navbar{
+    background-color: aqua;
+    }
+.navbar-contents{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-contents-ul{
+    gap: 20px;
+    flex: 1;
+    justify-content: center;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.navbar-contents-blank{
+    flex: 1;
+}
